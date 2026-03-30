@@ -1,2 +1,2 @@
 # Admin panel:
-# [AcadenceAdminWeb](https://m-mhe.github.io/AcadenceAdminWeb/#/minified:iR)
+# [AcadenceAdminWeb](https://m-mhe.github.io/AcadenceStudentWeb/#/minified:hd)
